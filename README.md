@@ -18,7 +18,11 @@ Comie already automates **marketplace** accounts. This slice extends the same ag
 
 Agents reach marketplace, social, and ads accounts from one place.
 
-## Videos
+## Combined reel
+
+[`videos/comie_social_hermes_hackathon_reel.mp4`](videos/comie_social_hermes_hackathon_reel.mp4) — all four clips at **1.75×**, 1920×1080, ~1 min 46 s. Title card before each section (fade in/out).
+
+## Source videos
 
 | File | What it shows |
 |------|----------------|
