@@ -20,7 +20,7 @@ Agents reach marketplace, social, and ads accounts from one place.
 
 ## Combined reel
 
-[`videos/comie_social_hermes_hackathon_reel.mp4`](videos/comie_social_hermes_hackathon_reel.mp4) — all four clips at **1.75×**, 1920×1080, ~1 min 46 s. Title card before each section (fade in/out).
+[`videos/comie_social_hermes_hackathon_reel.mp4`](videos/comie_social_hermes_hackathon_reel.mp4) — connect, Hermes chat, and schedule clips at **1.75×**, 1920×1080, ~52 s. Title card before each section. NVIDIA demo clip is not in this cut.
 
 ## Source videos
 
